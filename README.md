@@ -4,7 +4,7 @@
  FastCache class    
 
  @package  OpenGallery   http://github.com/par7133     
- @author   Daniele Bonini <code@gaox.eu>    
+ @author   Daniele Bonini <code@gaox.io>    
  @version  1.0    
  @phpver   5.6 to 7.3      
  @access   public    
@@ -17,4 +17,4 @@
 
  To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.  
 
- Feedback: <a href="mailto:code@gaox.eu">code@gaox.eu</a>
+ Feedback: <a href="mailto:code@gaox.io">code@gaox.io</a>
